@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { name: 'ВиК Ямбол', url: 'https://vik-yambol.bg/', logo: './assets/img/ВиК Ямбол.png' },
         { name: 'Градски транспорт Ямбол', url: 'https://transport.yambol.bg/', logo:'./assets/img/Градски транспорт Ямбол.png' },
         { name: 'Информация за чистотата на въздуха и температурата в града', url: 'https://air.yambol.bg/portal/home', logo: './assets/img/Въздух и температура Ямбол.png' },
+        { name: 'ФК Ямбол 1915', url: 'https://fcyambol1915.com/', logo: './assets/img/fk-arena-1915.png' },
     ];
 
     municipalSites.forEach((site, index) => {
